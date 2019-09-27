@@ -1,0 +1,2 @@
+[09-Jan-2014 02:08:16 America/Denver] PHP Fatal error:  require(): Failed opening required '/home1/thoughu3/public_html/codejoy/../bootstrap/autoload.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/thoughu3/public_html/codejoy/index.php on line 21
+[09-Jan-2014 02:08:31 America/Denver] PHP Fatal error:  require(): Failed opening required '/home1/thoughu3/public_html/codejoy/../bootstrap/autoload.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home1/thoughu3/public_html/codejoy/index.php on line 21
